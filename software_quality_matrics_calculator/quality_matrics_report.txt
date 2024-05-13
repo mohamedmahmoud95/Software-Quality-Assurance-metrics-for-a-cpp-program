@@ -1,0 +1,27 @@
+Quality matrics report:
+
+
+//==================================//
+Halstead matrics: 
+Program length: 22
+Program vocabulary: 11
+Estimated length: 19.1665
+Purity Ratio: 0.871207
+Volume: 45.9594
+Difficulty: 2
+Effort: 91.9187
+Number of bugs from volume: 0.0153198
+Number of bugs from effort: 0.000333333
+
+//==================================//
+
+
+
+
+//==================================//
+Cyclomatic Complexity matrics: 
+
+  - using Predicate Method: 2
+  - using McCabe's Method: 2
+
+//==================================//

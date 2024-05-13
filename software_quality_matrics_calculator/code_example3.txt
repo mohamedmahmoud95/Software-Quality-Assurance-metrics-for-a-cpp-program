@@ -1,0 +1,12 @@
+int main() {
+    int x = 10;
+    if (x > 5) {
+        cout << "x is greater than 5";
+        if (x > 10) {
+            cout << " and greater than 10";
+        }
+    } else {
+        cout << "x is less than or equal to 5";
+    }
+    return 0;
+}
